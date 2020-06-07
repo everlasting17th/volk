@@ -1,4 +1,3 @@
-
 import logging
 import volkcurr
 import volkify
@@ -30,7 +29,6 @@ def error(update, context):
     """Log Errors caused by Updates."""
     logger.warning('Update "%s" caused error "%s"', update, context.error)
 
-
 def volk(update, context):
     data = volkcurr.get_currency_report()
     update.message.reply_text(data.desc)
@@ -38,8 +36,11 @@ def volk(update, context):
 def quote(update, context):
     html = volkifyParse.openHTML("https://socratify.net/quotes/random")
 
-    quote = volkify.volkify("Счастье имеет смысл только тогда, когда есть, с кем его разделить.", "волк")
-    author = volkify.volkify("В диких условиях (20+)", "волк")
+    print(volkify.volkify(volkifyParse.getPhrase(html), "волк"))
+    print(volkify.volkify(volkifyParse.getAuthor(html), "волк"))
+
+    quote = volkify.volkify(volkifyParse.getPhrase(html), "волк")
+    author = volkify.volkify(volkifyParse.getAuthor(html), "волк")
 
     update.message.reply_text(quote)
     update.message.reply_text(author)
@@ -75,3 +76,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
