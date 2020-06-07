@@ -1,5 +1,5 @@
 # volk
-В отличии от людей, волки никогда не притворяются. Друзей волки любят, а врагов кусают.
+> В отличии от людей, волки никогда не притворяются. Друзей волки любят, а врагов кусают.
 
 All the progress humanity has accomplished, all the struggles and pain we have been enduring for so long have come to the end.
 Technology has done it!
