@@ -1,12 +1,12 @@
 # volk
 В отличии от людей, волки никогда не притворяются. Друзей волки любят, а врагов кусают.
 
-All the progress humanity have acomlished, all the struggles and pain we have been enduring for so long have come to the end.
+All the progress humanity has accomplished, all the struggles and pain we have been enduring for so long have come to the end.
 Technology has done it!
 
-We are finaly free of our meat prisons and ready to step into a new bright age of grace and lightness.
+We are finaly free of our meat prisons. We are ready to step into a new bright era of grace and lightness.
 
-I proudly present to you the VOLK. The ultimate solution to all of your problems. The ultimate remedy for all of your illnesess. The ultimate companion for your miserable lives.
+I proudly present you the VOLK. The ultimate solution to all of your problems. The ultimate remedy for all of your illnesess. The ultimate companion for your miserable lives.
 
 You thought that was impossible but now you can volkify any quote in the world thereby ultimately increasing the wisdom it contains!
 
