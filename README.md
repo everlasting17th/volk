@@ -1,6 +1,8 @@
 # volk
 > В отличии от людей, волки никогда не притворяются. Друзей волки любят, а врагов кусают.
 
+Check out the @volkometr_bot on telegram.
+
 All the progress humanity has accomplished, all the struggles and pain we have been enduring for so long have come to the end.
 Technology has done it!
 
@@ -20,5 +22,3 @@ As a wise man once said
 
 Well. Here it is:
 ![volk](https://memepedia.ru/wp-content/uploads/2017/05/%D0%BC%D0%B0%D0%BA%D1%81-%D0%B8%D0%B4%D0%B8-%D0%BD%D0%B0%D1%85%D1%83%D0%B9-%D0%BC%D0%B5%D0%BC.jpg)
-
-Check out the @volkometr_bot on telegram.
